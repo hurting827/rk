@@ -5,6 +5,7 @@ import requests
 import plotly.express as px
 import plotly.graph_objects as go
 import time
+import cv2
 import os
 from datetime import datetime
 from PIL import Image
